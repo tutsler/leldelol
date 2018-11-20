@@ -5,4 +5,4 @@ git gud
 
 https://www.forestapp.cc/en/
 
-If in doubt, git status
+When in doubt, git status
